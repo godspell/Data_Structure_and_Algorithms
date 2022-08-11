@@ -1,0 +1,1 @@
+To view question <a href="https://www.geeksforgeeks.org/minimize-maximum-array-element-possible-by-at-most-k-splits-on-the-given-array/" target="_blank">click here.</a>

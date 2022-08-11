@@ -17,3 +17,6 @@ public:
         return true;
     }
 };
+
+// time complexity = O(n)
+// space complixity = O(1)
