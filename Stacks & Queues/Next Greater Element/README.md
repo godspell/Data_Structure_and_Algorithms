@@ -1,0 +1,1 @@
+To view question <a href="https://leetcode.com/problems/next-greater-element-i/" target="_blank">click here.</a>
