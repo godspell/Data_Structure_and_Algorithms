@@ -1,0 +1,1 @@
+To view question <a href="https://leetcode.com/problems/pascals-triangle/" target="_blank">click here.</a>
