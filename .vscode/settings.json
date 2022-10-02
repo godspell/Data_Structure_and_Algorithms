@@ -3,6 +3,10 @@
         "iostream": "cpp",
         "deque": "cpp",
         "string": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "*.tcc": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "valarray": "cpp"
     }
 }
