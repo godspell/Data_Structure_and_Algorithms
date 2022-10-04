@@ -1,0 +1,1 @@
+To view question <a href="https://leetcode.com/problems/majority-element/" target="_blank">click here.</a>
