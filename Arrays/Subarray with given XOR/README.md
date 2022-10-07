@@ -1,0 +1,1 @@
+To view question <a href="https://www.interviewbit.com/problems/subarray-with-given-xor/" target="_blank">click here.</a>
