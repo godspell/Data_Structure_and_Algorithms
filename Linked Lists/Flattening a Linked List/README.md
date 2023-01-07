@@ -1,0 +1,1 @@
+To view question <a href="https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1" target="_blank">click here.</a>
